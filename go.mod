@@ -1,4 +1,4 @@
-module dulguundd/logAndError-lib.git
+module github.com/dulguundd/logAndError-lib
 
 go 1.17
 
